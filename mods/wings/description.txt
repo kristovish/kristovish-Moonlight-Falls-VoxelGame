@@ -1,0 +1,1 @@
+Wings is a mod whiche allows server owners to give players fly privs while holding the wings (Like binoculars)

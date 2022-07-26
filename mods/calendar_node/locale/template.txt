@@ -1,0 +1,2 @@
+# textdomain: calendar_node
+Calendar=

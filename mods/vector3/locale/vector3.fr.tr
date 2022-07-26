@@ -1,0 +1,3 @@
+# textdomain: vector3
+format error=Erreur, l'argument n'est pas un vecteur ou un nombre
+

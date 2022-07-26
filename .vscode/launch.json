@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http:///home/kristovish/.var/app/net.minetest.Minetest/.minetest/mods/1Seleccion/mods a usar.js",
+            "request": "launch",
+            "url": "http:///home/kristovish/.var/app/net.minetest.Minetest/.minetest/mods/1Seleccion/mods a usar.js"
+        }
+    ]
+}

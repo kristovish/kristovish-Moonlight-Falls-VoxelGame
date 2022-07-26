@@ -1,0 +1,57 @@
+#1magicalities:crystal
+<b>Crystals</b> are nodes that you can find in underground - they grow on the ceilings and the floors of caves.
+<b>Crystal Tapping</b> is an action in which by <b>right-clicking</b> a crystal with your wand, you can extract elements from it.
+#1magicalities:crystal_preserve
+The <b>Crystal Preservation</b> ability helps you collect elements from crystals without completely draining them. You learned that when you drain a crystal of it's elements completely, it will not regenerate anything.
+#1magicalities:crystal_draining
+The <b>Efficient Crystal Draining</b> ability helps you collect elements from crystals 5x faster than normal.
+#1magicalities:pickup_jarred
+The <b>Crystal Jarring</b> procedure will enable you to collect crystals without removing all of their contents.
+When using this method, the crystal will not break into shards, instead it will drop itself.
+<big><b>Procedure</b></big>
+Surround a crystal in a 3x3 thing of glass, except for the top layer, which has to be wood slabs.
+When the structure is complete, hit any node of glass with the <action name="#2magicalities:wand_steel">wand</action>.
+<center><item name="stairs:slab_wood" width=64 height=64><item name="stairs:slab_wood" width=64 height=64><item name="stairs:slab_wood" width=64 height=64></center>
+<center><item name="default:glass" width=64 height=64><item name="magicalities:crystal_cluster_air" width=64 height=64><item name="default:glass" width=64 height=64></center>
+<center><item name="default:glass" width=64 height=64><item name="default:glass" width=64 height=64><item name="default:glass" width=64 height=64></center>
+#2magicalities:table
+The <b>Research Table</b> is used to do research about various topics in the world of magic.
+In order to do research, you need to find knowledge around the world. You can find bookshelves in various structures that will give you the knowledge you need to do your research. If you find a bookshelf that is generated in the world, you can extract knowledge from it by right-clicking.
+The Research Table will need three items to operate: Your <b>Guide Book</b> (you're reading it right now!), an <b>Ink and Quill</b> and a piece of paper.
+Provided you have acquired sufficient knowledge from exploring the world, you can then dwell deeper into topics you have heard about but don't know all the details of.
+#2magicalities:arcane_table
+<b>Arcane Table</b> is used for magical crafting. You can create an Arcane Table by <i>using</i> your wand on a Table. Make sure that the table is empty first, though!
+<center><item name="magicalities:table" width=64 height=64><img name=magicalities_book_plus.png width=64 height=64><item name="magicalities:wand_steel" width=64 height=64></center>
+The Arcane Table will also tell you what elements you need inside of your wand to finish crafting your item.
+#2magicalities:cauldron
+<b>Cauldron</b> is used for magical crafting. It requires a <b>fire source</b> under it and <b>water</b> to accept items.
+Right-Click on the Cauldron with a <b>Bucket of Water</b> in order to fill it with water.
+#2magicalities:wand_steel
+<b>Wands</b> are used to cast spells. The first wand you know of is called the <b>Steel-Capped Wand</b>, which can contain up to 25 of any element.
+#2magicalities:wand_gold
+The <b>Gold-Capped Wand</b> is an improved version of the Steel-Capped Wand. It can contain up to 50 of each element instead of the Steel-Capped Wand's 25.
+#2magicalities:wand_tellium
+The <b>Tellium-Capped Wand</b> is the best wand available to wizards and witches. It can contain <b>up to 100</b> of each element instead of the Gold-Capped Wand's 50.
+#2magicalities:transterra
+The <b>Transterra</b> is a stone that can be used to <b>create or remove nodes from the world</b>. It is made in the Cauldron.
+<cauldron name=magicalities:transterra>
+#2magicalities:tellium
+<b>Tellium</b> is a metal that can be used to <b>create magical tools</b>. It is made in the Cauldron.
+<cauldron name=magicalities:tellium>
+#2magicalities:element_ring
+The <b>Elemental Ring</b> can show you what elements a crystal contains and their quantities.
+#2magicalities:focus_blank
+The <b>Blank Wand Focus</b> is your gateway to the world of <b>Wand Focuses</b>.
+Wand Focuses are used with the wand to peform magical activites. <b>Right Click</b> with your <action name="#2magicalities:wand_steel">Wand</action> to select a focus from your inventory.
+#2magicalities:focus_swap
+The <b>Wand Focus of Swapping</b> is a <action name="#2magicalities:focus_blank">Wand Focus</action> which can be used to replace nodes in the world with nodes in your inventory. Use <b>Right Mouse Button</b> to select the node to replace with and <b>Left Mouse Button</b> to replace nodes in the world. Each operation requires <b>1 Earth</b>.
+#2magicalities:focus_light
+The <b>Wand Focus of Light</b> is a <action name="#2magicalities:focus_blank">Wand Focus</action> which can be used to place light source nodes in place of stone. Each node of light takes <b>1 Light</b> element.
+#2magicalities:axe_tellium
+<b>Tellium Axe</b> is a Diamond-tier tool that can be empowered by right-clicking. In empowered mode, the axe is 2x as fast but breaks about 4x faster.
+#2magicalities:pick_tellium
+<b>Tellium Pickaxe</b> is a Diamond-tier tool that can be empowered by right-clicking. In empowered mode, the pickaxe is 2x as fast but breaks about 4x faster.
+#2magicalities:shovel_tellium
+<b>Tellium Shovel</b> is a Diamond-tier tool that can be empowered by right-clicking. In empowered mode, the shovel is 2x as fast but breaks about 4x faster.
+#2magicalities:sword_tellium
+<b>Tellium Sword</b> is a Diamond-tier tool that can be empowered by right-clicking. In empowered mode, the sword deals 2x more damage but breaks about 4x faster.

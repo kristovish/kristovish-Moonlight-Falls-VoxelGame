@@ -1,0 +1,6 @@
+Thanks to jordan4ibanez for making this mod, which I am modifying right now.
+His version can be found at: https://github.com/jordan4ibanez/enchantment
+
+Thanks to kilbith for suggesting the textures of the crucible.
+
+Thanks to Gambit for creating the textures crucible.
